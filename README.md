@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OAXG
 - 👀 I’m interested in Web, Application
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
